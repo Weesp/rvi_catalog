@@ -1,5 +1,5 @@
 /**
- * Компонент Vue catalog-details для управления детальной страницы продукции
+ * Компонент Vue catalog-details для управления детальной страницей продукции
  * @param {string} uid NomenclatureListPull.ItemTable['#value']['UID'] - uid продукта
  * @param {string} product_name  NomenclatureListPull.ItemTable['#value']['Name'] - название продукта
  * @param {object} product NomenclatureListPull.ItemTable - объект характеристик продукта
